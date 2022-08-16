@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Matheus-Assis05
 - 👀 I’m interested in: Music, Fashion and Games
-- 🌱 I’m currently learning: C#, PHP and JS
+- 🌱 I’m currently learning: C#, PHP, JS and WordPress
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-martins-de-assis-5264b1231/
