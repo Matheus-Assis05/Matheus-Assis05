@@ -10,7 +10,7 @@
 
 - 👋 Meu nome é Matheus Assis, sou um desenvolvedor full-stack (ou um dia aspiro ser);
 - 🌱 Atualmente Estudando...
-         ~ Java
+         ~ Java & C#
 - 📫 LinkedIn: https://www.linkedin.com/in/matheus-martins-de-assis-5264b1231/;
 
 #Dê uma olhada nesse projeto aqui! 👇
