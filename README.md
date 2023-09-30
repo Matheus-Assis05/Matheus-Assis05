@@ -8,7 +8,7 @@
      \_|  |_/\__,_|\__|_| |_|\___|\__,_|___/ |___/ \___| \_/      
 
 
-- 👋 Meu nome é Matheus Assis, sou um desenvolvedor full-stack (ou um dia aspiro ser);
+- 👋 Meu nome é Matheus Assis, sou um desenvolvedor full-stack (ou um dia aspiro ser), formado em T.I e atualmente cursando ADS na Puc Minas;
 - 🌱 Atualmente Estudando...
          ~ Java & C#
 - 📫 LinkedIn: https://www.linkedin.com/in/matheus-martins-de-assis-5264b1231/;
